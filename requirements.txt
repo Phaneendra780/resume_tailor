@@ -1,0 +1,43 @@
+# Core Streamlit Framework
+streamlit>=1.28.0
+
+# AI and Machine Learning
+phidata>=2.4.0
+google-generativeai>=0.3.0
+
+# Document Processing
+PyPDF2>=3.0.1
+python-docx>=0.8.11
+docx2txt>=0.8
+mammoth>=1.6.0
+
+# PDF Generation
+reportlab>=4.0.4
+
+# Image Processing
+Pillow>=10.0.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Web Search and API Tools
+tavily-python>=0.3.0
+
+# Utility Libraries
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Optional: For enhanced text processing
+nltk>=3.8.1
+spacy>=3.7.0
+
+# Optional: For better document parsing
+pdfplumber>=0.9.0
+textract>=1.6.5
+
+# System utilities
+python-magic>=0.4.27
+
+# Async support (if needed)
+aiohttp>=3.8.0
+aiofiles>=23.0.0
